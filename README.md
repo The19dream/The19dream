@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Wardhan</h1>
+<h1>
+  Hi, I'm Harsh Wardhan
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <h3 align="center">AI/ML • Data Science • Full Stack Developer</h3>
 

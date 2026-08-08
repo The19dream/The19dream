@@ -1,5 +1,4 @@
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harsh%20Wardhan&fontSize=50&fontAlignY=35&animation=twinkling&color=gradient"/>
 
 <h3 align="center">
@@ -104,23 +103,6 @@ Online learning and examination platform.
 
 <td width="33%" align="center">
 
-### 💰 Refund Tracker
-
-System for tracking online refund processes.
-
-**Java • GUI • Database**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%">
-
-<br>
 
 ## 📊 GitHub Stats
 

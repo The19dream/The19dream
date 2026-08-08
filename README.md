@@ -22,12 +22,12 @@
 <tr>
 <td width="60%">
 
-- 🔭 Currently building **AI/ML and Full Stack projects**
-- 🌱 Learning **Artificial Intelligence & Data Science**
-- 💻 Working with **Python, Java and JavaScript**
-- 🧠 Interested in **AI Agents, ML and Software Development**
-- 🚀 I enjoy turning ideas into working projects
-- 🎯 Currently improving my development and problem-solving skills
+-  Currently building **AI/ML and Full Stack projects**
+-  Learning **Artificial Intelligence & Data Science**
+-  Working with **Python, Java and JavaScript**
+-  Interested in **AI Agents, ML and Software Development**
+-  I enjoy turning ideas into working projects
+-  Currently improving my development and problem-solving skills
 
 </td>
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=The19dream&label=Profile%20Views&style=flat-square" />
 </p>
 
 <br>
@@ -107,8 +107,8 @@ Online learning and examination platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=The19dream&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The19dream&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <br>
@@ -116,7 +116,7 @@ Online learning and examination platform.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The19dream&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <br>
@@ -126,7 +126,7 @@ Online learning and examination platform.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The19dream&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 <br>
@@ -134,7 +134,7 @@ Online learning and examination platform.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/The19dream/The19dream/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br>

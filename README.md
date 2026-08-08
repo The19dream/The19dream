@@ -134,7 +134,7 @@ Online learning and examination platform.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The19dream/The19dream/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/The19dream/The19dream/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 <br>

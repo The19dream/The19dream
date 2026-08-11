@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Building+with+Python+%7C+;Exploring+Artificial+Intelligence;Learning+Data+Science;Developing+Full+Stack+Projects;Turning+Ideas+into+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Building+with+Python+%7C+Exploring+Artificial+Intelligence;Learning+Data+Science;Developing+Full+Stack+Projects;Turning+Ideas+into+Projects" />
 </p>
 
 <p align="center">

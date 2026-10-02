@@ -149,5 +149,5 @@ Online learning and examination platform.
 AI / ML              ███████████████░░░ 80%
 Data Science         ████████████░░░░░░ 65%
 Full Stack           █████████████░░░░░ 70%
-Java Development     ██████████████░░░░ 75%
+Java Development     ██████████████░░░░ 50%
 Problem Solving      ███████████░░░░░░░ 60%

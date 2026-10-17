@@ -17,13 +17,13 @@
 
 I'm an engineering student aspiring to become a well-rounded **AI/ML Developer and Full Stack Developer**. I enjoy learning new technologies, solving problems, and turning ideas into practical applications.
 
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Data Science** using Python.
-- 🐍 Building Python backend applications and APIs with **FastAPI and Django**.
-- 🟢 Developing JavaScript backend applications using **Node.js and Express.js**.
-- ⚛️ Building frontend interfaces using **React, JavaScript, HTML, and CSS**.
-- 🧠 Learning how AI/ML models can be integrated into real-world applications.
-- 🧩 Learning **Java and C++ for Data Structures and Algorithms (DSA)**.
-- 🚀 Improving my development skills through hands-on projects and consistent practice.
+-  Exploring **Artificial Intelligence, Machine Learning, and Data Science** using Python.
+-  Building Python backend applications and APIs with **FastAPI and Django**.
+-  Developing JavaScript backend applications using **Node.js and Express.js**.
+-  Building frontend interfaces using **React, JavaScript, HTML, and CSS**.
+-  Learning how AI/ML models can be integrated into real-world applications.
+-  Learning **Java and C++ for Data Structures and Algorithms (DSA)**.
+-  Improving my development skills through hands-on projects and consistent practice.
 
 My goal is to combine intelligent systems with full-stack engineering to build useful, scalable applications.
 
@@ -37,7 +37,7 @@ My goal is to combine intelligent systems with full-stack engineering to build u
 
 Learning AI/ML concepts, exploring data science, and working toward building intelligent applications with Python.
 
-### 🐍 Python Backend Development
+###  Python Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,django" alt="Python, FastAPI, Django" />
@@ -47,7 +47,7 @@ Learning AI/ML concepts, exploring data science, and working toward building int
 
 Building backend services, REST APIs, and Python-powered applications.
 
-### 🟢 JavaScript Backend Development
+###  JavaScript Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
@@ -57,7 +57,7 @@ Building backend services, REST APIs, and Python-powered applications.
 
 Developing server-side applications, APIs, and backend services using JavaScript.
 
-### ⚛️ Frontend Development
+###  Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="HTML, CSS, JavaScript, React" />
@@ -67,7 +67,7 @@ Developing server-side applications, APIs, and backend services using JavaScript
 
 Building responsive user interfaces and connecting frontend applications with backend APIs.
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" alt="PostgreSQL, MongoDB, MySQL, SQLite" />
@@ -75,7 +75,7 @@ Building responsive user interfaces and connecting frontend applications with ba
 
 Exploring relational and NoSQL databases for application development.
 
-### 🧩 DSA & Problem Solving
+###  DSA & Problem Solving
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp" alt="Java and C++" />
@@ -83,7 +83,7 @@ Exploring relational and NoSQL databases for application development.
 
 Learning Java and C++ to strengthen programming fundamentals, data structures, algorithms, and logical thinking.
 
-### 🔧 Tools & Development Environment
+###  Tools & Development Environment
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Git, GitHub, VS Code, Docker, Linux" />
